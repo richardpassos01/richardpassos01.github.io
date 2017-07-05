@@ -1,0 +1,142 @@
+body, html {
+  height: 100%;
+  margin: 0;
+  font: 400 15px/1.8 "Lato", sans-serif;
+  color: #777;
+}
+
+/*Configuração Botão voltar ao topo*/
+#back-top {
+	position: fixed;
+	bottom: 0px;
+	right: 20px;
+}
+#back-top a {
+	display: block;
+	
+}
+#back-top a:hover {
+	opacity: 0.50;
+}
+
+#back-top span {
+	display: block;
+	opacity: 0.80;
+	
+	-webkit-border-radius: 15px;
+	-moz-border-radius: 15px;
+	
+	-webkit-transition: 1s;
+	-moz-transition: 1s;
+	transition: 1s;
+}
+
+
+
+
+/* Configura os textos */
+.caption {
+  position: absolute;
+  left: 0;
+  top: 50%;
+  width: 100%;
+  text-align: center;
+  color: #000;
+}
+
+.caption span.border {
+  background-color: #111;
+  color: #fff;
+  padding: 18px;
+  font-size: 25px;
+  letter-spacing: 10px;
+}
+
+h3 {
+  letter-spacing: 5px;
+  text-transform: uppercase;
+  font: 20px "Lato", sans-serif;
+  color: #111;
+}
+
+
+
+
+/* Configura os elementos "parallax" */
+.parallax{
+  background-attachment: fixed;
+  background-size: cover;
+  background-position: 50% 0;
+  position: relative;
+}
+
+/* Configura um background para cada elemento */
+.div1 {
+  background-image: url(../imagens/mario.gif);
+  background-size: 100% 100%;
+  opacity: 0.80;
+  height: 100%;
+}
+.div2 {
+  background-image: url(../imagens/alm2.jpg);
+  min-height: 700px;
+  opacity: 0.80;
+	 
+}
+.div3 {
+  background-image: url(../imagens/devOps.jpg);
+  min-height: 700px;
+  opacity: 0.90;	
+}
+
+.div4 {
+  background-image: url(../imagens/userStories.jpg);
+  min-height: 700px;
+  opacity: 0.75;
+}
+
+.div5 {
+  background-image: url(../imagens/DVSTS.jpg);
+  min-height: 630px;
+  opacity: 0.90;
+}
+
+.div6 {
+  background-image: url(../imagens/gitLogoMiniatura.jpg);
+  min-height: 600px;
+  opacity: 0.80;
+}
+
+
+.div7 {
+  background-image: url(../imagens/hoot.jpg);
+  min-height: 580px;
+  opacity: 0.80;
+}
+
+.div8 {
+  background-image: url(../imagens/social.jpg);
+  min-height: 580px;
+  opacity: 0.80;
+}
+
+.div9 {
+  background-image: url(../imagens/scup.jpg);
+  min-height: 630px;
+  opacity: 0.80;
+}
+
+.div10 {
+  background-image: url(../imagens/planning.jpg);
+  min-height: 700px;
+  opacity: 0.80;
+}
+
+
+.div11 {
+	background-image: url(../imagens/mario.gif);
+	min-height: 400px;
+	opacity: 0.80;
+	height: 100%;
+}
+
