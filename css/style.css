@@ -79,9 +79,8 @@ h3 {
 }
 .div2 {
   background-image: url(../imagens/alm2.jpg);
-  min-height: 700px;
-  opacity: 0.80;
-  repeat: no-repeat;	
+  min-height: 400px;
+  opacity: 0.80;	
 	 
 }
 .div3 {
