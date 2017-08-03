@@ -79,63 +79,63 @@ h3 {
 }
 .div2 {
   background-image: url(../imagens/alm2.jpg);
-  min-height: 310px;
+  min-height: 400px;
   opacity: 0.80;	
 	 
 }
 .div3 {
   background-image: url(../imagens/devOps.jpg);
-  min-height: 310px;
+  min-height: 700px;
   opacity: 0.90;	
 }
 
 .div4 {
   background-image: url(../imagens/userStories.jpg);
-  min-height: 310px;
+  min-height: 700px;
   opacity: 0.75;
 }
 
 .div5 {
   background-image: url(../imagens/DVSTS.jpg);
-  min-height: 310px;
+  min-height: 630px;
   opacity: 0.90;
 }
 
 .div6 {
   background-image: url(../imagens/gitLogoMiniatura.jpg);
-  min-height: 310px;
+  min-height: 600px;
   opacity: 0.80;
 }
 
 
 .div7 {
   background-image: url(../imagens/hoot.jpg);
-  min-height: 310px;
+  min-height: 580px;
   opacity: 0.80;
 }
 
 .div8 {
   background-image: url(../imagens/social.jpg);
-  min-height: 310px;
+  min-height: 580px;
   opacity: 0.80;
 }
 
 .div9 {
   background-image: url(../imagens/scup.jpg);
-  min-height: 310px;
+  min-height: 630px;
   opacity: 0.80;
 }
 
 .div10 {
   background-image: url(../imagens/planning.jpg);
-  min-height: 310px;
+  min-height: 700px;
   opacity: 0.80;
 }
 
 
 .div11 {
 	background-image: url(../imagens/mario.gif);
-	min-height: 350px;
+	min-height: 400px;
 	opacity: 0.80;
 	height: 100%;
 }
